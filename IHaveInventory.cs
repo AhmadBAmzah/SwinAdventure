@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace SwinAd
+namespace SwinAdventure
 {
     interface IHaveInventory
     {

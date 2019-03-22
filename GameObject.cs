@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace SwinAd
+namespace SwinAdventure
 {
     abstract class GameObject : IdentifiableObject
     {
@@ -12,24 +12,24 @@ namespace SwinAd
         
         public GameObject(string[] ids, string name, string desc) : base(ids)
         {
-            _name = name;
-            _description = desc;
+            this._name = name;
+            this._description = desc;
         }
 
         public virtual string Name()
         {
-            return _name;
+            return this._name;
         }
 
         public string shortDesc()
         {
-            string textDesc = "a " + _name + " (" + base.firstId() + ")" ;
+            string textDesc = "a " + this._name + " (" + base.firstId() + ")" ;
             return textDesc;
         }
 
         public virtual string longDesc()
         {
-            string textDesc = _description;
+            string textDesc = this._description;
             return textDesc;
         }
     }

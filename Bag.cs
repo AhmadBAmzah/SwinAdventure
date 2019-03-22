@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace SwinAd
+namespace SwinAdventure
 {
     class Bag : Item, IHaveInventory
     {
@@ -32,7 +32,7 @@ namespace SwinAd
 
         public override string Name()
         {
-            return this._inventory.Name();
+            return this.Name();
         }
 
         public Inventory inventory()

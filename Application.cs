@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SwinAd
+namespace SwinAdventure
 {
     class Application
     {
@@ -23,7 +23,7 @@ namespace SwinAd
             player.inventory().Put(milk);
 
             Item dBShotgun = new Item(new[]{"dBShotgun"}, "Double-Barrel Shoutgun", "Groovy...");
-            Console.WriteLine(milk.inventory().ItemList());
+            Console.WriteLine(player.inventory().ItemList());
             milk.inventory().Put(dBShotgun);
 
             //loopCommands

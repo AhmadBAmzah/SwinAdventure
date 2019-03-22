@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\SwinAd\\SwinAd.csproj",
+      "projectUniqueName": "D:\\SwinAdventure\\SwinAd.csproj",
       "projectName": "SwinAd",
-      "projectPath": "D:\\Documents\\SwinAd\\SwinAd.csproj",
+      "projectPath": "D:\\SwinAdventure\\SwinAd.csproj",
       "packagesPath": "C:\\Users\\SenileSnek\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\SwinAd\\obj\\",
+      "outputPath": "D:\\SwinAdventure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

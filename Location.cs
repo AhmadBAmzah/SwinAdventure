@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace SwinAd
+namespace SwinAdventure
 {
     class Location : GameObject
     {
@@ -22,6 +22,11 @@ namespace SwinAd
             {
                 return this._inventory.Fetch(id);
             }
+        }
+
+        public override string Name()
+        {
+            return this.Name();
         }
     }
 }
