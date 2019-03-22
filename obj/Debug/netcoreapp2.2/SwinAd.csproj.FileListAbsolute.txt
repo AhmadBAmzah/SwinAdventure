@@ -1,0 +1,11 @@
+D:\Documents\SwinAd\bin\Debug\netcoreapp2.2\SwinAd.deps.json
+D:\Documents\SwinAd\bin\Debug\netcoreapp2.2\SwinAd.runtimeconfig.json
+D:\Documents\SwinAd\bin\Debug\netcoreapp2.2\SwinAd.runtimeconfig.dev.json
+D:\Documents\SwinAd\bin\Debug\netcoreapp2.2\SwinAd.dll
+D:\Documents\SwinAd\bin\Debug\netcoreapp2.2\SwinAd.pdb
+D:\Documents\SwinAd\obj\Debug\netcoreapp2.2\SwinAd.csprojAssemblyReference.cache
+D:\Documents\SwinAd\obj\Debug\netcoreapp2.2\SwinAd.csproj.CoreCompileInputs.cache
+D:\Documents\SwinAd\obj\Debug\netcoreapp2.2\SwinAd.AssemblyInfoInputs.cache
+D:\Documents\SwinAd\obj\Debug\netcoreapp2.2\SwinAd.AssemblyInfo.cs
+D:\Documents\SwinAd\obj\Debug\netcoreapp2.2\SwinAd.dll
+D:\Documents\SwinAd\obj\Debug\netcoreapp2.2\SwinAd.pdb
