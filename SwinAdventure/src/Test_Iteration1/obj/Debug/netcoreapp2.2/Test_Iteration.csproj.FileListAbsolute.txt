@@ -1,0 +1,4 @@
+E:\BachCS\2019\_S2\OOP\Test_Iteration1\obj\Debug\netcoreapp2.2\Test_Iteration.csprojAssemblyReference.cache
+E:\BachCS\2019\_S2\OOP\Test_Iteration1\obj\Debug\netcoreapp2.2\Test_Iteration.csproj.CoreCompileInputs.cache
+E:\BachCS\2019\_S2\OOP\Test_Iteration1\obj\Debug\netcoreapp2.2\Test_Iteration.AssemblyInfoInputs.cache
+E:\BachCS\2019\_S2\OOP\Test_Iteration1\obj\Debug\netcoreapp2.2\Test_Iteration.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+E:\BachCS\2019\_S2\OOP\SwinAdventure\Test\SwinAdventureApp\SwinAdventureGUI\bin\Debug\SwinAdventureGUI.exe.config
+E:\BachCS\2019\_S2\OOP\SwinAdventure\Test\SwinAdventureApp\SwinAdventureGUI\bin\Debug\SwinAdventureGUI.exe
+E:\BachCS\2019\_S2\OOP\SwinAdventure\Test\SwinAdventureApp\SwinAdventureGUI\bin\Debug\SwinAdventureGUI.pdb
+E:\BachCS\2019\_S2\OOP\SwinAdventure\Test\SwinAdventureApp\SwinAdventureGUI\obj\Debug\SwinAdventureGUI.Form1.resources
+E:\BachCS\2019\_S2\OOP\SwinAdventure\Test\SwinAdventureApp\SwinAdventureGUI\obj\Debug\SwinAdventureGUI.Properties.Resources.resources
+E:\BachCS\2019\_S2\OOP\SwinAdventure\Test\SwinAdventureApp\SwinAdventureGUI\obj\Debug\SwinAdventureGUI.csproj.GenerateResource.cache
+E:\BachCS\2019\_S2\OOP\SwinAdventure\Test\SwinAdventureApp\SwinAdventureGUI\obj\Debug\SwinAdventureGUI.exe
+E:\BachCS\2019\_S2\OOP\SwinAdventure\Test\SwinAdventureApp\SwinAdventureGUI\obj\Debug\SwinAdventureGUI.pdb
+E:\BachCS\2019\_S2\OOP\SwinAdventure\Test\SwinAdventureApp\SwinAdventureGUI\obj\Debug\SwinAdventureGUI.csproj.CopyComplete
+E:\BachCS\2019\_S2\OOP\SwinAdventure\Test\SwinAdventureApp\SwinAdventureGUI\bin\Debug\SwinAdventureClassLib.dll
+E:\BachCS\2019\_S2\OOP\SwinAdventure\Test\SwinAdventureApp\SwinAdventureGUI\obj\Debug\SwinAdventureGUI.csprojAssemblyReference.cache

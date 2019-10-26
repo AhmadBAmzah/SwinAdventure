@@ -1,0 +1,14 @@
+E:\BachCS\2019\_S2\OOP\SwinAdventure\src\SwinAdventure\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+E:\BachCS\2019\_S2\OOP\SwinAdventure\src\SwinAdventure\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+E:\BachCS\2019\_S2\OOP\SwinAdventure\src\SwinAdventure\bin\Debug\netcoreapp2.2\nunit.engine.dll
+E:\BachCS\2019\_S2\OOP\SwinAdventure\src\SwinAdventure\bin\Debug\netcoreapp2.2\nunit.engine.api.dll
+E:\BachCS\2019\_S2\OOP\SwinAdventure\src\SwinAdventure\bin\Debug\netcoreapp2.2\SwinAdventure.deps.json
+E:\BachCS\2019\_S2\OOP\SwinAdventure\src\SwinAdventure\bin\Debug\netcoreapp2.2\SwinAdventure.runtimeconfig.json
+E:\BachCS\2019\_S2\OOP\SwinAdventure\src\SwinAdventure\bin\Debug\netcoreapp2.2\SwinAdventure.runtimeconfig.dev.json
+E:\BachCS\2019\_S2\OOP\SwinAdventure\src\SwinAdventure\bin\Debug\netcoreapp2.2\SwinAdventure.dll
+E:\BachCS\2019\_S2\OOP\SwinAdventure\src\SwinAdventure\bin\Debug\netcoreapp2.2\SwinAdventure.pdb
+E:\BachCS\2019\_S2\OOP\SwinAdventure\src\SwinAdventure\obj\Debug\netcoreapp2.2\SwinAdventure.AssemblyInfoInputs.cache
+E:\BachCS\2019\_S2\OOP\SwinAdventure\src\SwinAdventure\obj\Debug\netcoreapp2.2\SwinAdventure.AssemblyInfo.cs
+E:\BachCS\2019\_S2\OOP\SwinAdventure\src\SwinAdventure\obj\Debug\netcoreapp2.2\SwinAdventure.dll
+E:\BachCS\2019\_S2\OOP\SwinAdventure\src\SwinAdventure\obj\Debug\netcoreapp2.2\SwinAdventure.pdb
+E:\BachCS\2019\_S2\OOP\SwinAdventure\src\SwinAdventure\obj\Debug\netcoreapp2.2\SwinAdventure.csprojAssemblyReference.cache

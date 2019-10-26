@@ -1,0 +1,8 @@
+E:\BachCS\2019\_S2\OOP\SwinAdventure\SwinAdventureClassLib\SwinAdventureClassLib\bin\Debug\netstandard2.0\SwinAdventureClassLib.deps.json
+E:\BachCS\2019\_S2\OOP\SwinAdventure\SwinAdventureClassLib\SwinAdventureClassLib\bin\Debug\netstandard2.0\SwinAdventureClassLib.dll
+E:\BachCS\2019\_S2\OOP\SwinAdventure\SwinAdventureClassLib\SwinAdventureClassLib\bin\Debug\netstandard2.0\SwinAdventureClassLib.pdb
+E:\BachCS\2019\_S2\OOP\SwinAdventure\SwinAdventureClassLib\SwinAdventureClassLib\obj\Debug\netstandard2.0\SwinAdventureClassLib.csprojAssemblyReference.cache
+E:\BachCS\2019\_S2\OOP\SwinAdventure\SwinAdventureClassLib\SwinAdventureClassLib\obj\Debug\netstandard2.0\SwinAdventureClassLib.AssemblyInfoInputs.cache
+E:\BachCS\2019\_S2\OOP\SwinAdventure\SwinAdventureClassLib\SwinAdventureClassLib\obj\Debug\netstandard2.0\SwinAdventureClassLib.AssemblyInfo.cs
+E:\BachCS\2019\_S2\OOP\SwinAdventure\SwinAdventureClassLib\SwinAdventureClassLib\obj\Debug\netstandard2.0\SwinAdventureClassLib.dll
+E:\BachCS\2019\_S2\OOP\SwinAdventure\SwinAdventureClassLib\SwinAdventureClassLib\obj\Debug\netstandard2.0\SwinAdventureClassLib.pdb

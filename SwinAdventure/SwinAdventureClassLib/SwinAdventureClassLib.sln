@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdventureClassLib", "SwinAdventureClassLib\SwinAdventureClassLib.csproj", "{96EB232D-D1B3-4924-8FE6-060019ABA8E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96EB232D-D1B3-4924-8FE6-060019ABA8E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EB232D-D1B3-4924-8FE6-060019ABA8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EB232D-D1B3-4924-8FE6-060019ABA8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EB232D-D1B3-4924-8FE6-060019ABA8E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AB9CC51-0F0E-40BA-94BA-25210546E1E3}
+	EndGlobalSection
+EndGlobal

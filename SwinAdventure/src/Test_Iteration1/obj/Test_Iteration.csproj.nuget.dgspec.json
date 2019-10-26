@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\BachCS\\2019\\_S2\\OOP\\Test_Iteration1\\Test_Iteration.csproj": {}
+  },
+  "projects": {
+    "E:\\BachCS\\2019\\_S2\\OOP\\SwinAdventure\\SwinAdventure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\BachCS\\2019\\_S2\\OOP\\SwinAdventure\\SwinAdventure.csproj",
+        "projectName": "SwinAdventure",
+        "projectPath": "E:\\BachCS\\2019\\_S2\\OOP\\SwinAdventure\\SwinAdventure.csproj",
+        "packagesPath": "C:\\Users\\SenileSnek\\.nuget\\packages\\",
+        "outputPath": "E:\\BachCS\\2019\\_S2\\OOP\\SwinAdventure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SenileSnek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\BachCS\\2019\\_S2\\OOP\\Test_Iteration1\\Test_Iteration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\BachCS\\2019\\_S2\\OOP\\Test_Iteration1\\Test_Iteration.csproj",
+        "projectName": "Test_Iteration",
+        "projectPath": "E:\\BachCS\\2019\\_S2\\OOP\\Test_Iteration1\\Test_Iteration.csproj",
+        "packagesPath": "C:\\Users\\SenileSnek\\.nuget\\packages\\",
+        "outputPath": "E:\\BachCS\\2019\\_S2\\OOP\\Test_Iteration1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SenileSnek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\BachCS\\2019\\_S2\\OOP\\SwinAdventure\\SwinAdventure.csproj": {
+                "projectPath": "E:\\BachCS\\2019\\_S2\\OOP\\SwinAdventure\\SwinAdventure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
